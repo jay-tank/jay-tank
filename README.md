@@ -1,30 +1,30 @@
 # Jay Tank
 ### Senior DevOps & Platform Engineer | Cloud Architect
 
-Senior DevOps and Infrastructure Engineer with over 6 years of experience architecting resilient, production-grade cloud environments for high-growth Fintech and Blockchain (Web3) enterprise ecosystems[cite: 1]. Specializing in the design of secure internal developer platforms, automated Infrastructure as Code (IaC), and optimizing high-transaction distributed infrastructure[cite: 1].
+Senior DevOps and Infrastructure Engineer with over 6 years of experience architecting resilient, production-grade cloud environments for high-growth Fintech and Blockchain (Web3) enterprise ecosystems. Specializing in the design of secure internal developer platforms, automated Infrastructure as Code (IaC), and optimizing high-transaction distributed infrastructure.
 
 ---
 
 ## 🛠️ Core Expertise & Technology Stack
 
 ### Cloud & Container Orchestration
-* **Platforms:** AWS (EKS, ECS, Fargate, Lambda, MSK)[cite: 1]
-* **Containerization & Mesh:** Kubernetes, Helm, Docker[cite: 1]
+* **Platforms:** AWS (EKS, ECS, Fargate, Lambda, MSK)
+* **Containerization & Mesh:** Kubernetes, Helm, Docker
 
 ### Automation & Deployment
-* **Infrastructure as Code:** Terraform (Modular Architecture), Ansible[cite: 1]
-* **CI/CD & GitOps:** GitHub Actions, GitLab CI, Jenkins, ArgoCD[cite: 1]
+* **Infrastructure as Code:** Terraform (Modular Architecture), Ansible
+* **CI/CD & GitOps:** GitHub Actions, GitLab CI, Jenkins, ArgoCD
 
 ### Enterprise Security & Edge
-* **Edge Routing:** Cloudflare Enterprise (WAF, Workers, Rate Limiting)[cite: 1]
-* **Access Control & Compliance:** AWS WAF, IAM, SOC 2 & PCI DSS Governance[cite: 1]
+* **Edge Routing:** Cloudflare Enterprise (WAF, Workers, Rate Limiting)
+* **Access Control & Compliance:** AWS WAF, IAM, SOC 2 & PCI DSS Governance
 
 ### Databases & Web3 Infrastructure
-* **Distributed Ledger:** Bitcoin Lightning Network (LND), Ethereum/Tron Node Management[cite: 1]
-* **Data Layers:** PostgreSQL, MySQL, Redis, Liquibase[cite: 1]
+* **Distributed Ledger:** Bitcoin Lightning Network (LND), Ethereum/Tron Node Management
+* **Data Layers:** PostgreSQL, MySQL, Redis, Liquibase
 
 ### Advanced Observability
-* **APM & Metrics:** Datadog (APM/ASM), Prometheus, Grafana, ELK Stack, AWS CloudWatch[cite: 1]
+* **APM & Metrics:** Datadog (APM/ASM), Prometheus, Grafana, ELK Stack, AWS CloudWatch
 
 ---
 
