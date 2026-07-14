@@ -1,54 +1,19 @@
-<!-- ===================== HERO BANNER ===================== -->
-<p align="center">
-  <img src="assets/banner.png" alt="Jay Tank — Senior DevOps & Platform Engineer" width="100%" />
-</p>
+<h1 align="center">Jay Tank</h1>
 
-<!-- ===================== INTRO ===================== -->
-<p align="center">
-  Senior DevOps &amp; Platform Engineer with <strong>6+ years</strong> building secure, high-availability
-  cloud infrastructure for <strong>fintech</strong> and <strong>Web3&nbsp;/&nbsp;blockchain</strong> — high-transaction
-  payment systems, Bitcoin&nbsp;Lightning nodes, and SOC&nbsp;2 / PCI&nbsp;DSS compliant platforms.
-</p>
+<p align="center"><em>Building reliable systems — and solving the problems that don't come with a manual.</em></p>
 
----
+<br />
 
-## Tech Stack
+I'm an engineer who turns complexity into something dependable. For the better part of a decade I've helped fast-moving teams build, scale, and trust the systems their business runs on — and I care as much about *how* something is built as whether it works.
 
-- **Cloud &amp; Orchestration** — AWS (EKS, ECS, Fargate, Lambda, MSK) · Kubernetes · Helm · Docker
-- **Infrastructure as Code &amp; CI/CD** — Terraform · Ansible · GitHub Actions · GitLab CI · Jenkins · ArgoCD
-- **Security &amp; Edge** — Cloudflare (WAF, Workers) · AWS WAF · IAM · SOC 2 · PCI DSS
-- **Databases &amp; Web3** — Bitcoin Lightning (LND) · Ethereum / Tron · PostgreSQL · MySQL · Redis · Liquibase
-- **Observability** — Datadog · Prometheus · Grafana · ELK Stack · CloudWatch
-- **Languages** — Python · Bash
+I value clarity over cleverness, judgment over hype, and work that holds up under pressure. I learn quickly, adapt faster, and I'm at my best where the problems are ambiguous and the stakes are real.
 
-## Featured Projects
+### Selected work
 
-**[kubectl-ai-explain](https://github.com/jay-tank/kubectl-ai-explain)** — a `kubectl` plugin that diagnoses a failing Kubernetes pod with an LLM (Claude, OpenAI, or a local Ollama model) and prints a plain-English root cause and fix.
-<sub>Python · Kubernetes · LLM</sub>
+- **[kubectl-ai-explain](https://github.com/jay-tank/kubectl-ai-explain)** — an open-source developer tool
+- **[laravel-ecs-ec2](https://github.com/jay-tank/laravel-ecs-ec2)** — a production deployment blueprint
+- **[s3-iam-automation](https://github.com/jay-tank/s3-iam-automation)** — infrastructure automation
 
-**[laravel-ecs-ec2](https://github.com/jay-tank/laravel-ecs-ec2)** — a production-ready blueprint for deploying a containerized Laravel app on AWS ECS (EC2) with Nginx, an Application Load Balancer, ECR, and CI/CD.
-<sub>AWS ECS · Docker · Nginx · CI/CD</sub>
+### Elsewhere
 
-**[s3-iam-automation](https://github.com/jay-tank/s3-iam-automation)** — Bash + AWS CLI automation that provisions an S3 bucket with a scoped IAM user, least-privilege policy, and access keys in one command.
-<sub>AWS · S3 · IAM · Bash</sub>
-
-## GitHub Stats
-
-<p align="center">
-  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jay-tank&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Jay Tank's GitHub stats" />
-  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jay-tank&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Jay Tank's top languages" />
-</p>
-
-## Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/jay-tank-2a5564171">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://jaytank.hashnode.dev">
-    <img src="https://img.shields.io/badge/Blog-2962FF?style=flat-square&logo=hashnode&logoColor=white" alt="Blog" />
-  </a>
-  <a href="mailto:tankjai24@gmail.com">
-    <img src="https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+[LinkedIn](https://linkedin.com/in/jay-tank-2a5564171) &nbsp;·&nbsp; [Writing](https://jaytank.hashnode.dev) &nbsp;·&nbsp; [Email](mailto:tankjai24@gmail.com)
