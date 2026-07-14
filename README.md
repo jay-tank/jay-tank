@@ -20,14 +20,14 @@ Open to conversations about platform, infrastructure, and reliability work.
 
 <p align="center">
   <a href="https://linkedin.com/in/jay-tank-2a5564171">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="42" height="42" />
+    <img src="https://img.icons8.com/color/96/linkedin-circled.png" alt="LinkedIn" width="48" height="48" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://jaytank.hashnode.dev">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="Hashnode" width="42" height="42" />
+    <img src="https://img.icons8.com/color/96/hashnode.png" alt="Hashnode" width="48" height="48" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:tankjai24@gmail.com">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" width="42" height="42" />
+    <img src="https://img.icons8.com/color/96/circled-envelope.png" alt="Email" width="48" height="48" />
   </a>
 </p>
