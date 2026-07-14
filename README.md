@@ -8,11 +8,11 @@ I'm an engineer who turns complexity into something dependable. For the better p
 
 I value clarity over cleverness, judgment over hype, and work that holds up under pressure. I learn quickly, adapt faster, and I'm at my best where the problems are ambiguous and the stakes are real.
 
-### Selected work
+### How I work
 
-- **[kubectl-ai-explain](https://github.com/jay-tank/kubectl-ai-explain)** — an open-source developer tool
-- **[laravel-ecs-ec2](https://github.com/jay-tank/laravel-ecs-ec2)** — a production deployment blueprint
-- **[s3-iam-automation](https://github.com/jay-tank/s3-iam-automation)** — infrastructure automation
+- Start with the problem, not the tooling.
+- Favor solutions that are simple to run and hard to break.
+- Optimize for the long term — clarity, reliability, and trust.
 
 ### Elsewhere
 
