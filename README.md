@@ -14,12 +14,6 @@ I value clarity over cleverness, judgment over hype, and work that holds up unde
 - Favor solutions that are simple to run and hard to break.
 - Optimize for the long term — clarity, reliability, and trust.
 
-## Toolbox
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,ansible,githubactions,python,bash,postgres,redis" alt="AWS, Kubernetes, Docker, Terraform, Ansible, GitHub Actions, Python, Bash, PostgreSQL, Redis" />
-</p>
-
 ## Contact
 
 Open to conversations about platform, infrastructure, and reliability work.
